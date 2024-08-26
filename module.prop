@@ -1,0 +1,7 @@
+id=vpn-to-hotspot
+name=VPN to Hotspot
+version=v1.0
+versionCode=27082024
+author=@chautruongthinh
+description=Share Your VPN Connection Over Hotspot.
+updateJson=https://raw.githubusercontent.com/chautruongthinh/vpn-to-hotspot/update/update.json
